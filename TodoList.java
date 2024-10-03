@@ -56,6 +56,7 @@ public class TodoList {
         myTodoList.addTodoItem("Finish Java assignment");
         myTodoList.addTodoItem("Grocery shopping");
         myTodoList.addTodoItem("Call mom");
+        myTodoList.addTodoItem("Call mom 2");
         
         // Display all items
         myTodoList.displayTodoItems();
